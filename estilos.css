@@ -425,7 +425,6 @@ article, aside, footer{
    grid-row-gap: 30px;
 }
 
-
 /*selector class*/
 .border{
    border: 4px solid white;
@@ -512,7 +511,6 @@ td
 /*  propiedad:  valor; */
   text-align: justify;
 }
-
 section{
    margin: 40px;
 }
@@ -553,19 +551,15 @@ li {
    position:relative;
    font-size: 15px;
 }
-
 ul li a:hover {
    background-color: lightcyan;
    color: blueviolet;
    padding: 2px;
 }
-
 a {
    text-decoration: none;
    padding: 2px;
 }
-
-
 article, aside{
    background-color: white;
 }
@@ -573,11 +567,9 @@ footer{
    background-color: lightcyan;
    margin:1px;
 }
-
 article, aside, footer{
    flex:1px;
    padding: 1rem;
    margin:1px;
 }
-
 }
